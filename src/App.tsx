@@ -749,7 +749,7 @@ Generated on: ${new Date().toLocaleString()} | Security Admin: ${activeUser}
                   <input
                     type="text"
                     disabled
-                   const webhook = import.meta.env.VITE_SLACK_WEBHOOK_URL;
+                  
                     className="bg-black/40 border border-white/5 rounded-xl px-3 py-2 text-xs font-mono text-slate-500 mt-1 cursor-not-allowed select-none"
                   />
                   <span className="text-[10px] text-slate-500 font-mono mt-1">Automatic alert forwarding. Configure secrets in Env configs.</span>
