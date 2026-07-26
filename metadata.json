@@ -1,0 +1,8 @@
+{
+  "name": "Aegis One",
+  "description": "Enterprise Intrusion Detection Platform featuring AI-powered threat analysis, signature matching, and security operations orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
