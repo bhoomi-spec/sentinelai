@@ -8,6 +8,8 @@ The application captures live network traffic, analyzes packets in real time, id
 
 ---
 
+live demo - https://aegisone.onrender.com/
+
 ## Overview
 
 Traditional enterprise security monitoring solutions are often expensive and complex. Aegis One aims to provide an affordable, intelligent, and user-friendly alternative capable of monitoring network activity, detecting threats, and assisting users in understanding their network security posture through explainable AI.
